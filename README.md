@@ -91,6 +91,10 @@
 [END] ───► JSON Payload Returned to React View Layer
 
 ```
+-----
+#### live demo {[https://lanreact.vercel.app/]}
+-----
+
 # Autonomous Multi-Agent Research & Reporting Engine
 
 An enterprise-grade, full-stack monorepo hosting an AI research workflow application. Built with **LangGraph** to coordinate multi-agent states, **Groq Cloud Infrastructure** powering lightning-fast reasoning, **FastAPI** for an asynchronous backend router, and **React JS** for an interactive analytics dashboard.
